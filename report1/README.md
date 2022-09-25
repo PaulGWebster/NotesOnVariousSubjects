@@ -73,3 +73,18 @@ development? Strangely when I look at perl.org and all its wonderous insights I 
 I feel odd writing these words, but my original point was the problem with perl is perl ... with no style guide there 
 can be no standard way of doing anything either. Comically tmtowtdi is what I am targetting here, its really cool 
 having alternatives but in the long run someone needs to keep all those alternatives 
+
+### Re-inventing the wheel
+
+Why re-invent the wheel? there is 30 modules that already do what you need ... why is there 30 modules?
+
+In perl-land because of the lack of any focus and adherence to any specific standard, more often than not the easiest 
+path is the one you create yourself.
+
+There are exceptions of course the HTTP::* suite for instance; but due to the lack of examples in most cases and the 
+absolute hostility between different systems be the object orientated or otherwise, to be in the mind of the author of 
+most modules is far more difficult than just writing it yourself.
+
+Very likely adding module 31 to the stack already on cpan.
+
+This seems to 
